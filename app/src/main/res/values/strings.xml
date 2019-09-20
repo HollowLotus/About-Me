@@ -2,4 +2,14 @@
     <string name="app_name">About Me</string>
     <string name="name">Allan</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Allan
+        \n\nI am a college student at the College of Southern Nevada.
+        \n\nI am currently in a android application development class.
+        \n\nI will be developing my portfolio through out this class.
+        \n\nThis is the fifth line.
+        \n\nThis is the sixth line.
+        \n\nThis is the seventh line.
+        \n\nThis is the eight line.
+    </string>
 </resources>
