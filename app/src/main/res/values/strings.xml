@@ -11,5 +11,7 @@
         \n\nThis is the sixth line.
         \n\nThis is the seventh line.
         \n\nThis is the eight line.
+        \n\n
     </string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
 </resources>
